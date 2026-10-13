@@ -1,0 +1,9 @@
+{
+  "repo_name": "pos-venda",
+  "system": "pos-venda",
+  "id": "04",
+  "status": "VALIDADO",
+  "catalog_version": "0.2.0",
+  "source_commit": "e5a84bda5555d966f53280ebc9e2ae2e39a160a4",
+  "exported_at": "2026-10-13T04:08:32.854Z"
+}
